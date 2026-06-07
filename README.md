@@ -16,7 +16,7 @@ This repository contains the tasks completed during my CodSoft Internship.
 ## Technologies Used
 - Python (if-else conditions and pattern matching)
 - VS Code
-OUTPUT :
+## OUTPUT :
 
 <img width="1194" height="910" alt="Image" src="https://github.com/user-attachments/assets/da4109ac-e961-4ca1-841e-3b8f4cec606f" />
 
