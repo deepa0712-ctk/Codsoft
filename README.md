@@ -1,3 +1,11 @@
+Company : Codsoft
+
+Name :  M.Deepalakshmi
+
+Intern ID :  BY25RY297081
+
+Duration : 4 weeks
+
 # CodSoft Internship Tasks
 
 This repository contains the tasks completed during my CodSoft Internship.
