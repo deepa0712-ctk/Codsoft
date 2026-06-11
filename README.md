@@ -26,11 +26,11 @@ This repository contains the tasks completed during my CodSoft Internship.
   
 - MinMax algorithm and Winsound Module (Tic tac toe using python)
 
-## OUTPUT - 1:
+## OUTPUT OF TASK - 1 :
 
 <img width="1194" height="910" alt="Image" src="https://github.com/user-attachments/assets/da4109ac-e961-4ca1-841e-3b8f4cec606f" />
 
-##OUTPUT - 2 :
+## OUTPUT OF TASK - 2 :
 
 <img width="1911" height="1008" alt="Image" src="https://github.com/user-attachments/assets/9e61e1cd-6008-44d3-a8be-527313a3ec17" />
 
