@@ -32,5 +32,7 @@ This repository contains the tasks completed during my CodSoft Internship.
 
 ##OUTPUT - 2 :
 
+<img width="1911" height="1008" alt="Image" src="https://github.com/user-attachments/assets/9e61e1cd-6008-44d3-a8be-527313a3ec17" />
+
 
 Thank you for visiting my repository.
