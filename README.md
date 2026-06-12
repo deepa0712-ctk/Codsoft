@@ -15,6 +15,8 @@ This repository contains the tasks completed during my CodSoft Internship.
 1. ChatBot using Python
    
 2. Tic tac toe using python
+ 
+3. Recommendation system
    
 ## Technologies Used
 
@@ -25,6 +27,8 @@ This repository contains the tasks completed during my CodSoft Internship.
 - if-else conditions and pattern matching (ChatBot using Python)
   
 - MinMax algorithm and Winsound Module (Tic tac toe using python)
+  
+- Content -Based Filtering and collaborative Filtering( Recommendation system)
 
 ## OUTPUT OF TASK - 1 :
 
@@ -33,6 +37,9 @@ This repository contains the tasks completed during my CodSoft Internship.
 ## OUTPUT OF TASK - 2 :
 
 <img width="1911" height="1008" alt="Image" src="https://github.com/user-attachments/assets/9e61e1cd-6008-44d3-a8be-527313a3ec17" />
+
+## OUTPUT OF TASK - 3 :
+
 
 
 Thank you for visiting my repository.
